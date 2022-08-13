@@ -40,7 +40,7 @@ Tag | Description
 `system_trust_legend` | User is "Veteran User" (gold color) Trust rank<br>(Role was removed in Sep 2018. Tag removed in 2022-05-05)
 `system_world_access` | User can upload and publish Worlds
 
-Trust rank tags have an offset of 1 with their name, so `system_trust_trusted` is actually only `Known User` (orange). The arrows in the following picture highlight the offset naming inaccuracy. The naming system is because of legacy reasons. Visistors have no trust rank at all. It is common for people User and above to be missing the tag for New User.
+Trust rank tags have an offset of 1 with their name, so `system_trust_trusted` is actually only `Known User` (orange). The arrows in the following picture highlight the offset naming inaccuracy. The naming system is because of legacy reasons. Visitors have no trust rank at all. It is common for people User and above to be missing the tag for New User.
 
 ![Trust ranks](https://i.imgur.com/dBoxDVG.png)
 
